@@ -1,4 +1,2 @@
 cli
-dplyr
-readr
-ggplot2
+tidyverse
