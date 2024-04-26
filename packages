@@ -1,3 +1,4 @@
 cli
-tidyverse
-sjPlot
+dplyr
+readr
+ggplot2
